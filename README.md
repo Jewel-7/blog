@@ -9,3 +9,4 @@ css styling is Basic
 
 link to the page
 
+https://jewel-7.github.io/blog/
